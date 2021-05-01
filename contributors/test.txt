@@ -1,2 +1,4 @@
 This is a test file.
 
+22000243
+"I agree to follow the Handong CSEE Standard honor code."
